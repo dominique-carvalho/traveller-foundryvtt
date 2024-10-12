@@ -1,0 +1,30 @@
+{
+  "name": "Vacc Suit",
+  "type": "armour",
+  "img": "systems/mgt2e/icons/items/vacc-suit.svg",
+  "system": {
+    "tl": "8",
+    "weight": 28,
+    "cost": 12000,
+    "notes": "",
+    "active": false,
+    "quantity": 1,
+    "status": null,
+    "armour": {
+      "protection": "4",
+      "otherProtection": "0",
+      "otherTypes": "",
+      "rad": 15,
+      "archaic": "0",
+      "skill": "1",
+      "duration": 6,
+      "slots": 0,
+      "form": "standard",
+      "layered": 0,
+      "ablat": "0",
+      "powered": "0",
+      "worn": 0
+    },
+    "description": "<p>An old style space suit. Big and bulky.</p>"
+  },
+}
